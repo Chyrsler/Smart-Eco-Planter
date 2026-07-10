@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leefy</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="shortcut icon" href="images/favicon.png" type="">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Full height */
+            overflow: hidden; /* Prevent scrolling */
+        }
+        .login-bg {
+            background-image: url('images/bg-login.png'); /* Replace with your image path */
+            background-size: cover; /* Cover the entire area */
+            background-position: center; /* Center the image */
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.5; /* 50% opacity */
+            z-index: -1; /* Send it to the back */
+        }
+        .login-container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            background-color: white; /* White background for the form */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 100px;
+        }
+        .error-message {
+            color: red;
+            font-size: 0.9em;
+        }
+        .success-message {
+            color: green;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body class="bg-green-800">
+    <div class="login-bg"></div> <!-- Background image with 50% opacity -->
+    
+    <nav class="bg-green-700 text-white py-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-2xl font-bold">Leefy</div>
+            <div class="space-x-6">
+                <a href="index.html" class="hover:text-green-300">
+                    <i class="fas fa-home"></i> HOME
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="login-container">
+        <h2 class="text-center">Sign up</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="name">Username</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter your username" required>
+                <div id="nameFeedback" class="error-message"></div> <!-- Feedback for username -->
+            </div>
+            <div class="form-group">
+                <label for="username">Email</label>
+                <input type="email" class="form-control" id="username" placeholder="Enter your email" required>
+                <div id="usernameFeedback" class="error-message"></div> <!-- Feedback for username -->
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+                <div id="passwordFeedback" class="error-message"></div> <!-- Feedback for password -->
+            </div>
+            <button type="button" class="btn btn-primary btn-block" id="submitBtn">Sign up</button>
+            <div id="formFeedback" class="success-message"></div> <!-- General feedback -->
+        </form>
+        <div class="text-center mt-3">
+            <p>Already have an account? <a href="login.html" class="btn btn-link">Login</a></p>
+        </div>
+    </div>
+    
+     <!-- Firebase SDKs -->
+     <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+ 
+     <script>
+         // Firebase configuration remains the same
+         const firebaseConfig = {
+            apiKey: "AIzaSyDRidpGm0hJv4iURam9lPo7u4PSwoaHQX0",
+            authDomain: "leefyweb-93366.firebaseapp.com",
+            databaseURL: "https://leefyweb-93366-default-rtdb.asia-southeast1.firebasedatabase.app",
+            projectId: "leefyweb-93366",
+            storageBucket: "leefyweb-93366.firebasestorage.app",
+            messagingSenderId: "1081109950434",
+            appId: "1:1081109950434:web:0377020f48098af24e53bb"
+        };
+ 
+         // Initialize Firebase
+         const app = firebase.initializeApp(firebaseConfig);
+         const auth = firebase.auth();
+         const db = firebase.database();
+ 
+         document.getElementById('submitBtn').addEventListener('click', function() {
+            const name = document.getElementById('name').value.trim(); // Capture username
+            const email = document.getElementById('username').value.toLowerCase();
+            const password = document.getElementById('password').value;
+
+            // Get all feedback elements
+            const passwordFeedback = document.getElementById('passwordFeedback');
+            const usernameFeedback = document.getElementById('usernameFeedback');
+            const nameFeedback = document.getElementById('nameFeedback');
+            const formFeedback = document.getElementById('formFeedback');
+
+            // Clear previous feedback
+            passwordFeedback.textContent = '';
+            usernameFeedback.textContent = '';
+            nameFeedback.textContent = '';
+            formFeedback.textContent = '';
+
+            // Validate inputs
+            if (!name) {
+                nameFeedback.textContent = 'Username is required.'; // Update feedback message
+                return;
+            }
+            if (password.length < 6) {
+                passwordFeedback.textContent = 'Password must be at least 6 characters long.';
+                return;
+            }
+
+            // Create user and save to database
+            auth.createUserWithEmailAndPassword(email, password)
+                .then((userCredential) => {
+                    // Save user data to Realtime Database
+                    return db.ref('users/' + name).set({
+                        email: email
+                    });
+                })
+                .then(() => {
+                    formFeedback.textContent = 'Sign up successful! Redirecting...';
+                    window.location.href = 'login.html';
+                })
+                .catch((error) => {
+                    const errorCode = error.code;
+                    const errorMessage = error.message;
+                    if (errorCode === 'auth/invalid-email') {
+                        usernameFeedback.textContent = 'Invalid email address.';
+                    } else if (errorCode === 'auth/weak-password') {
+                        passwordFeedback.textContent = 'Password is too weak.';
+                    } else if (errorCode === 'auth/email-already-in-use') {
+                        usernameFeedback.textContent = 'Email already exists.';
+                    } else {
+                        formFeedback.textContent = errorMessage;
+                    }
+                });
+        });
+     </script>
+</body>
+</html>

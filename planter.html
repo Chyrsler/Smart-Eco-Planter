@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Smart Eco Planter, Plant Monitoring, Humidity, Temperature">
+    <meta name="description" content="Monitor your Smart Eco Planter with real-time humidity and temperature data.">
+    <meta name="author" content="Leefy">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/png">
+    <title>Leefy</title>
+
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <style>
+
+        /* Dashboard Styles */
+        .dashboard {
+            padding: 100px 0; /* Adjusted padding to account for the header */
+            background-color: rgb(255, 255, 255);
+        }
+
+        .dashboard h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 700;
+            color: #333;
+        }
+
+        /* Card Styles */
+        .dashboard-card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .dashboard-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .dashboard-card .card-header {
+            background-color: #087e0f;
+            color: #fff;
+            border-radius: 10px 10px 0 0;
+            text-align: center;
+            font-weight: 500;
+        }
+
+        .dashboard-card .card-body {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .data-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #0ba52a;
+        }
+
+        .ideal-range {
+            font-size: 1rem;
+            color: #28a745;
+            margin-bottom: 0;
+        }
+
+        /* Custom Dropdown Styles */
+        .plant-selector {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+
+        .plant-selector-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+        }
+
+        .plant-dropdown {
+            position: absolute;
+            width: 100%;
+            max-height: 200px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            z-index: 1000;
+            display: none;
+        }
+
+        .plant-option {
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        .plant-option:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-bg"></div> <!-- Background image with 50% opacity -->
+
+    <!-- Dashboard Section -->
+    <section class="dashboard">
+        <div class="container">
+            <h2>Smart Eco Planter Dashboard</h2>
+            
+            <div class="row">
+                <!-- Plant Selector -->
+                <div class="col-12 plant-selector">
+                    <input type="text" 
+                           class="plant-selector-input" 
+                           id="plantSearch" 
+                           placeholder="Search for a plant...">
+                    <div class="plant-dropdown" id="plantDropdown"></div>
+                </div>
+
+                <!-- Plant Info Cards -->
+                <div class="col-md-4 mb-4">
+                    <div class="dashboard-card card">
+                        <div class="card-header">Plant Name</div>
+                        <div class="card-body">
+                            <h5 id="plantName">Loading...</h5>
+                            <p class="ideal-range">(Ideal for indoor environments)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-4">
+                    <div class="dashboard-card card">
+                        <div class="card-header">Current Humidity</div>
+                        <div class="card-body">
+                            <h5 class="data-value" id="humidityValue">Loading...</h5>
+                            <p class="ideal-range" id="humidityRange">Ideal Humidity: 40% - 60%</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-4">
+                    <div class="dashboard-card card">
+                        <div class="card-header">Current Temperature</div>
+                        <div class="card-body">
+                            <h5 class="data-value" id="temperatureValue">Loading...</h5>
+                            <p class="ideal-range" id="temperatureRange">Ideal Temperature: 18°C - 24°C</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Save Button -->
+            <div class="col-12 text-center">
+                <button id="saveButton" class="btn btn-success">Save Plant</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Scripts -->
+    <script type="module">
+        // Import Firebase modules
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.10.0/firebase-app.js';
+        import { getDatabase, ref, onValue, set } from 'https://www.gstatic.com/firebasejs/10.10.0/firebase-database.js';
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyDRidpGm0hJv4iURam9lPo7u4PSwoaHQX0",
+            authDomain: "leefyweb-93366.firebaseapp.com",
+            databaseURL: "https://leefyweb-93366-default-rtdb.asia-southeast1.firebasedatabase.app",
+            projectId: "leefyweb-93366",
+            storageBucket: "leefyweb-93366.firebasestorage.app",
+            messagingSenderId: "1081109950434",
+            appId: "1:1081109950434:web:0377020f48098af24e53bb"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+
+        // Get the username from the URL
+        const username = new URLSearchParams(window.location.search).get('user');
+
+        // DOM Elements
+        const domElements = {
+            searchInput: document.getElementById('plantSearch'),
+            plantDropdown: document.getElementById('plantDropdown'),
+            plantName: document.getElementById('plantName'),
+            humidityValue: document.getElementById('humidityValue'),
+            temperatureValue: document.getElementById('temperatureValue'),
+            humidityRange: document.getElementById('humidityRange'),
+            temperatureRange: document.getElementById('temperatureRange')
+        };
+
+        // Initialize Application
+        function init() {
+            loadPlantData();
+            loadSelectedPlant();
+            setupEventListeners();
+            loadPlantDataFromFirebase(); // Load plant data from Firebase
+        }
+
+        // Load Selected Plant from Firebase
+        function loadSelectedPlant() {
+            const userPlantRef = ref(database, 'users/' + username + '/selectedPlant');
+
+            onValue(userPlantRef, (snapshot) => {
+                const plant = snapshot.val();
+                if (plant) {
+                    handlePlantSelection(plant);
+                }
+            });
+        }
+
+        // Load Plant Data from Firebase
+        function loadPlantDataFromFirebase() {
+            const userPlantDataRef = ref(database, 'users/' + username + '/PlantData');
+
+            onValue(userPlantDataRef, (snapshot) => {
+                const plantData = snapshot.val();
+                if (plantData) {
+                    updatePlantData(plantData);
+                }
+            });
+        }
+
+        // Update Plant Data in the UI
+        function updatePlantData(plantData) {
+            if (plantData.moisture) {
+                domElements.humidityValue.textContent = plantData.moisture + '%'; // Update moisture value
+            } else {
+                domElements.humidityValue.textContent = 0 + '%'; // Handle missing data
+            }
+
+            if (plantData.temperature !== undefined) {
+                const temperature = plantData.temperature.toFixed(1);
+                domElements.temperatureValue.textContent = temperature.endsWith('.0') ? 
+                    temperature.slice(0, -2) + '°C' : 
+                    temperature + '°C'; // Update temperature value with 1 decimal, remove .0 if present
+            } else {
+                domElements.temperatureValue.textContent = 'Data unavailable'; // Handle missing data
+            }
+        }
+
+        // Save Selected Plant to Firebase
+        function saveSelectedPlant(plant) {
+            const userPlantRef = ref(database, 'users/' + username + '/selectedPlant');
+            set(userPlantRef, plant)
+                .then(() => {
+                    console.log('Plant saved successfully!');
+                })
+                .catch((error) => {
+                    console.error('Error saving plant:', error);
+                });
+        }
+
+        // Load Plant Data
+        function loadPlantData() {
+            fetch('plants.txt')
+                .then(response => response.text())
+                .then(processPlantData)
+                .catch(handleDataError);
+        }
+
+        // Process Plant Data
+        function processPlantData(data) {
+            const lines = data.split('\n').filter(line => line.trim());
+
+            lines.forEach(line => {
+                const [name, humidity, temp] = line.split(',').map(item => item.trim());
+                createPlantOption({ name, humidity, temp });
+            });
+        }
+
+        // Create Plant Option Element
+        function createPlantOption(plant) {
+            const option = document.createElement('div');
+            option.className = 'plant-option';
+            option.textContent = plant.name;
+            option.dataset.plant = JSON.stringify(plant);
+            domElements.plantDropdown.appendChild(option);
+        }
+
+        // Handle Plant Selection
+        function handlePlantSelection(plant) {
+            domElements.plantName.textContent = plant.name;
+            domElements.humidityRange.textContent = `Ideal Humidity: ${plant.humidity}%`;
+            domElements.temperatureRange.textContent = `Ideal Temperature: ${plant.temp}°C`;
+            domElements.searchInput.value = '';
+            hideDropdown();
+        }
+
+        // Event Handlers
+        function setupEventListeners() {
+            // Plant search input
+            domElements.searchInput.addEventListener('input', filterPlants);
+            domElements.searchInput.addEventListener('focus', showDropdown);
+
+            // Plant selection
+            domElements.plantDropdown.addEventListener('click', (e) => {
+                if (e.target.classList.contains('plant-option')) {
+                    const plant = JSON.parse(e.target.dataset.plant);
+                    handlePlantSelection(plant);
+                    // Do not save the plant immediately
+                }
+            });
+
+            // Click outside dropdown
+            document.addEventListener('click', (e) => {
+                if (!e.target.closest('.plant-selector')) {
+                    hideDropdown();
+                }
+            });
+
+            // Save button event listener
+            document.getElementById('saveButton').addEventListener('click', () => {
+                const selectedPlant = {
+                    name: domElements.plantName.textContent,
+                    humidity: parseInt(domElements.humidityRange.textContent
+                        .replace('Ideal Humidity: ', '')
+                        .split(' - ')[0]
+                        .replace('%', '')
+                        .trim(), 10), // Parse humidity as integer
+                    temp: parseInt(domElements.temperatureRange.textContent
+                        .replace('Ideal Temperature: ', '')
+                        .split(' - ')[0]
+                        .replace('°C', '')
+                        .trim(), 10) // Parse temperature as integer
+                };
+                saveSelectedPlant(selectedPlant);
+            });
+        }
+
+        // Filter Plants
+        function filterPlants() {
+            const searchTerm = domElements.searchInput.value.toLowerCase();
+            const options = domElements.plantDropdown.children;
+
+            Array.from(options).forEach(option => {
+                const matches = option.textContent.toLowerCase().includes(searchTerm);
+                option.style.display = matches ? 'block' : 'none';
+            });
+
+            showDropdown();
+        }
+
+        // Dropdown Visibility Control
+        function showDropdown() {
+            const hasVisibleOptions = Array.from(domElements.plantDropdown.children)
+                .some(option => option.style.display !== 'none');
+            domElements.plantDropdown.style.display = hasVisibleOptions ? 'block' : 'none';
+        }
+
+        function hideDropdown() {
+            domElements.plantDropdown.style.display = 'none';
+        }
+
+        // Error Handling
+        function handleDataError(error) {
+            console.error('Error loading plant data:', error);
+            domElements.plantName.textContent = 'Data unavailable';
+        }
+
+        // Initialize the application
+        init();
+    </script>
+</body>
+</html>

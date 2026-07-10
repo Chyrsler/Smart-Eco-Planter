@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leefy</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="shortcut icon" href="images/favicon.png" type="">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Full height */
+            overflow: hidden; /* Prevent scrolling */
+        }
+        .login-bg {
+            background-image: url('images/bg-login.png'); /* Replace with your image path */
+            background-size: cover; /* Cover the entire area */
+            background-position: center; /* Center the image */
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.5; /* 50% opacity */
+            z-index: -1; /* Send it to the back */
+        }
+        .login-container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            background-color: white; /* White background for the form */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 100px;
+        }
+        .warning {
+            color: red; /* Red color for warning messages */
+            font-size: 0.9em; /* Slightly smaller font size */
+        }
+    </style>
+</head>
+<body class="bg-green-800">
+
+    <div class="login-bg"></div> <!-- Background image with 50% opacity -->
+
+    <nav class="bg-green-700 text-white py-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-2xl font-bold">Leefy</div>
+            <div class="space-x-6">
+                <a href="index.html" class="hover:text-green-300">
+                    <i class="fas fa-home"></i> HOME
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="login-container">
+        <h2 class="text-center">Login</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="username">Username or Email</label>
+                <input type="text" class="form-control" id="username" placeholder="Enter your username or email" required>
+                <div id="usernameWarning" class="warning" style="display: none;"></div>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+                <div id="passwordWarning" class="warning" style="display: none;"></div>
+            </div>
+            <button type="button" class="btn btn-primary btn-block" id="submitBtn">Login</button>
+        </form>
+        <div class="text-center mt-3">
+            <p>Don't have an account? <a href="signup.html" class="btn btn-link">Sign up</a></p>
+        </div>
+    </div>
+
+    <!-- Firebase SDKs -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+
+    <!-- Your web app's Firebase configuration -->
+    <script>
+        const firebaseConfig = {
+            apiKey: "AIzaSyDRidpGm0hJv4iURam9lPo7u4PSwoaHQX0",
+            authDomain: "leefyweb-93366.firebaseapp.com",
+            databaseURL: "https://leefyweb-93366-default-rtdb.asia-southeast1.firebasedatabase.app",
+            projectId: "leefyweb-93366",
+            storageBucket: "leefyweb-93366.firebasestorage.app",
+            messagingSenderId: "1081109950434",
+            appId: "1:1081109950434:web:0377020f48098af24e53bb"
+        };
+                
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+    
+        document.getElementById('submitBtn').addEventListener('click', function() {
+            const usernameOrEmail = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Regular expression to validate email format
+            const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            // Check if the input is a valid email format
+            if (emailPattern.test(usernameOrEmail)) {
+                // Attempt to sign in with email and password
+                firebase.auth().signInWithEmailAndPassword(usernameOrEmail, password)
+                    .then((userCredential) => {
+                        const user = userCredential.user;
+                        console.log('Login successful:', user);
+                        
+                        // Fetch the username associated with the email from the database
+                        firebase.database().ref('users').orderByChild('email').equalTo(user.email).once('value')
+                            .then((snapshot) => {
+                                if (snapshot.exists()) {
+                                    const username = Object.keys(snapshot.val())[0]; // Get the username from the snapshot
+                                    window.location.href = `planter.html?user=${encodeURIComponent(username)}`;
+                                } else {
+                                    throw new Error('Username not found for this email.');
+                                }
+                            })
+                            .catch((error) => {
+                                handleError(error);
+                            });
+                    })
+                    .catch((error) => {
+                        handleError(error);
+                    });
+            } else {
+                // Attempt to sign in with username
+                firebase.database().ref('users/' + usernameOrEmail).once('value').then((snapshot) => {
+                    if (snapshot.exists()) {
+                        const userEmail = snapshot.val().email; // Get the email associated with the username
+                        return firebase.auth().signInWithEmailAndPassword(userEmail, password);
+                    } else {
+                        throw new Error('User  not found.');
+                    }
+                }).then((userCredential) => {
+                    const user = userCredential.user;
+                    console.log('Login successful with username:', user);
+                    // Redirect using the username provided in the input
+                    window.location.href = `planter.html?user=${encodeURIComponent(usernameOrEmail)}`;
+                }).catch((error) => {
+                    handleError(error);
+                });
+            }
+        });
+
+        function handleError(error) {
+            const errorMessage = error.message;
+            console.error('Error during login:', errorMessage);
+            document.getElementById('usernameWarning').innerText = errorMessage;
+            document.getElementById('usernameWarning').style.display = 'block';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,1764 @@
+Abiu, 75, 26
+Ackee, 75, 26
+African Blue Basil, 70, 25
+African Medlar, 65, 26
+African Oil Palm, 85, 30
+Aglaia, 75, 25
+Aglaonema, 60, 28
+Acerola, 70, 28
+Allspice, 78, 24
+Ambarella, 72, 27
+Ambarella Hutan, 80, 27
+Ampelocissus, 70, 26
+Ampalaya, 75, 28
+Andean Blackberry, 60, 18
+Andes Berry, 60, 18
+Angled Loofah, 75, 28
+Anggrung, 80, 25
+Araza, 80, 25
+Araza-Roxa, 85, 24
+Arhat Fruit, 70, 24
+Arctic Raspberry, 50, 15
+Asian Bayberry, 70, 25
+Asam Kelubi, 90, 30
+Atemoya, 60, 22
+Atemoya Merah, 65, 22
+Avocado, 55, 20
+Almond, 50, 20
+Aloe Vera, 40, 25
+Amaranth, 65, 22
+Amazon Lily, 85, 28
+Anise, 55, 18
+Angelica, 70, 15
+Aralia, 75, 23
+Arrowroot, 80, 27
+Artichoke, 60, 20
+Arugula, 50, 18
+Ashwagandha, 55, 25
+Asparagus Fern, 60, 22
+Astilbe, 75, 16
+Atropa Belladonna, 65, 18
+Australian Finger Lime, 70, 26
+Azalea, 70, 20
+Azolla, 90, 25
+Acer Palmatum, 65, 18
+Achillea, 50, 20
+Adzuki Bean, 60, 22
+African Daisy, 55, 24
+African Violet, 75, 22
+Agastache, 60, 20
+Ageratum, 65, 23
+Air Potato, 80, 28
+Ajwain, 50, 25
+Alfalfa, 55, 18
+Allium, 60, 20
+Alocasia, 85, 25
+Alpine Strawberry, 60, 15
+Alyssum, 55, 18
+Amaranthus Tricolor, 70, 24
+Amazon Sword Plant, 80, 26
+Ambrosia, 50, 22
+American Ginseng, 70, 15
+Anemone, 65, 16
+Angel’s Trumpet, 75, 22
+Anthurium, 80, 25
+Apache Plume, 40, 20
+Apple Mint, 65, 18
+Apricot Tree, 55, 20
+Aquilegia, 60, 17
+Aralia Spinosa, 70, 22
+Arborvitae, 60, 15
+Arctic Willow, 50, 10
+Areca Palm, 85, 28
+Arisaema, 75, 20
+Aronia, 60, 18
+Artemisia, 50, 22
+Asarum, 75, 15
+Asclepias, 60, 20
+Ash Tree, 65, 18
+Asian Ginseng, 70, 15
+Aspen Tree, 55, 12
+Asphodel, 50, 20
+Aster Yomena, 65, 18
+Astragalus, 55, 20
+Atriplex, 40, 25
+Aubrieta, 60, 15
+Aucuba, 70, 18
+Auricularia, 85, 25
+Austrocylindropuntia, 30, 30
+Autumn Olive, 55, 20
+Avens, 60, 16
+Awl-leaf Willow, 50, 10
+Axilflower, 75, 22
+Azara, 65, 18
+Azolla Fern, 90, 25
+Aztec Lily, 70, 22
+Aztec Tobacco, 60, 24
+Acanthocereus, 50, 28
+Acanthopanax, 65, 20
+Acerola Cherry, 70, 26
+Acmella, 75, 25
+Acokanthera, 60, 24
+Aconitum, 65, 15
+Acorn Squash, 60, 21
+Actinidia, 70, 20
+Adansonia, 40, 30
+Adenanthos, 50, 22
+Adenium, 40, 28
+Adenophora, 60, 18
+Adiantum, 80, 22
+Aegopodium, 70, 16
+Aeonium, 50, 20
+Aeschynanthus, 80, 25
+Aesculus, 65, 18
+Agapanthus, 60, 20
+Agathis, 75, 25
+Agave, 40, 25
+Ageratum Houstonianum, 65, 23
+Agrimony, 60, 18
+Aichryson, 50, 20
+Ailanthus, 55, 22
+Aiphanes, 80, 26
+Ajuga, 70, 18
+Akebia, 65, 20
+Albizia, 60, 25
+Alchemilla, 70, 15
+Aldrovanda, 90, 25
+Babaco, 50, 18
+Babaco Merah, 55, 20
+Bael, 50, 30
+Bael Fruit, 40, 30
+Bacupari, 75, 26
+Bamboo Orchid, 80, 24
+Bambu Air, 85, 26
+Banana, 85, 27
+Bangan, 75, 27
+Batuan, 70, 25
+Beach Cherry, 60, 28
+Beach Plum, 55, 22
+Bignay, 75, 25
+Bignay Merah, 75, 25
+Bilimbi, 80, 25
+Bilimbi Hijau, 80, 26
+Biriba, 75, 28
+Biribá, 80, 27
+Black Ginger, 85, 24
+Black Mangrove, 90, 29
+Black Sapote, 70, 24
+Bolivian Coconut, 70, 22
+Bolivian Sunset, 70, 25
+Breadfruit, 90, 29
+Breadfruit Merah, 80, 28
+Breadnut, 75, 28
+Buddha Coconut, 80, 25
+Buddha’s Coconut, 75, 25
+Buddha’s Hand, 65, 23
+Burmese Grape, 75, 26
+Burmese Grape Merah, 70, 26
+Bamboo, 70, 25
+Basil, 60, 22
+Balsam, 65, 20
+Barberry, 50, 18
+Bamboo Palm, 85, 28
+Bee Balm, 70, 20
+Bellflower, 60, 18
+Bitter Melon, 75, 25
+Blackberry, 65, 22
+Blueberry, 60, 20
+Borage, 55, 21
+Bougainvillea, 50, 30
+Brussels Sprouts, 70, 18
+Butterfly Bush, 65, 25
+Butternut Squash, 60, 22
+Bittercress, 70, 15
+Bamboo Shoot, 80, 26
+Bacopa, 75, 24
+Bacopa Monnieri, 80, 25
+Balsam Fir, 60, 15
+Bamboo Grass, 70, 25
+Bitter Orange, 65, 22
+Blackcurrant, 60, 20
+Blood Orange, 70, 25
+Bluebell, 65, 18
+Borage Herb, 60, 22
+Bitterroot, 50, 15
+Bishop's Weed, 70, 20
+Black-eyed Susan, 65, 22
+Bitterleaf, 75, 25
+Bamboo Lily, 80, 28
+Bamboo Vine, 75, 26
+Bitter Almond, 60, 20
+Bishop's Hat, 65, 20
+Black Locust, 60, 22
+Blue Flag Iris, 70, 18
+Bouncing Bet, 60, 20
+Bramble, 65, 22
+Brassica, 70, 18
+Bromeliad, 80, 25
+Buddleia, 65, 22
+Bulbine, 70, 25
+Bur Marigold, 60, 20
+Burning Bush, 50, 18
+Buttercup, 60, 15
+Buttonbush, 70, 22
+Buxus, 65, 20
+Bamboo Fern, 75, 25
+Black Walnut, 60, 22
+Blue Spruce, 50, 15  
+Cacao, 85, 25
+Caimito, 80, 25
+Caimito de Monte, 80, 25
+Candle Nut, 65, 28
+Cape Chestnut, 55, 23
+Cape Gooseberry, 60, 20
+Carambola, 75, 25
+Caribbean Cherry, 75, 27
+Cassava, 60, 28
+Cedar Bay Cherry, 65, 25
+Cempedak, 85, 27
+Cempedak Merah, 80, 27
+Chayote, 70, 22
+Chayote Purpurea, 70, 22
+Cherries, 70, 25
+Chicle, 80, 26
+Chinese Banyan, 70, 25
+Chinese Mulberry, 75, 25
+Chirimoya, 65, 23
+Cinnamon, 78, 24
+Cinnamon Fern, 85, 24
+Clove Basil, 70, 26
+Cocoa Plum, 75, 28
+Coffee, 70, 20
+Coffee Liberica, 80, 25
+Cola Nut, 80, 25
+Colombian Berry, 70, 24
+Cuban Mango, 75, 27
+Cupuaçu Branco, 85, 26
+Cupuí, 85, 27
+Cabbage, 70, 18
+Cactus, 30, 25
+Caladium, 80, 24
+Calamondin, 70, 25
+Calendula, 60, 20
+California Pepper-tree, 65, 22
+Calla Lily, 75, 20
+Calycina, 65, 18
+Camellia, 70, 20
+Candytuft, 60, 18
+Canterbury Bells, 65, 18
+Carnation, 60, 20
+Cascara Sagrada, 70, 22
+Cast-Iron Plant, 50, 25
+Cattail, 80, 24
+Cattleya Orchid, 85, 25
+Celosia, 70, 22
+Chicory, 60, 20
+Chili Pepper, 70, 25
+Chives, 60, 20
+Chincherinchee, 65, 22
+Chinese Evergreen, 75, 25
+Christmas Cactus, 70, 20
+Chrysanthemum, 65, 18
+Cilantro, 60, 20
+Citrus, 70, 25
+Clary Sage, 60, 20
+Clematis, 65, 20
+Clove, 60, 25
+Clover, 50, 18
+Coccoloba, 80, 28
+Coconut Palm, 85, 30
+Colocasia, 80, 26
+Columbine, 60, 20
+Coneflower, 65, 22
+Coreopsis, 60, 20
+Cosmos, 70, 22
+Cotoneaster, 65, 20
+Creeping Thyme, 50, 18
+Crown-of-Thorns, 40, 25
+Cupflower, 70, 22
+Cuphea, 75, 25
+Curly Willow, 60, 20
+Cyclamen, 65, 18
+Cymbidium Orchid, 80, 25
+Cypress, 60, 20
+Cystopteris, 70, 15
+Cabbage Palm, 70, 25
+Cactus Flower, 30, 25
+Calathea, 80, 24
+Californian Poppy, 60, 20
+Camellia Sinensis, 70, 20
+Cananga, 75, 25
+Capers, 60, 22
+Cardamom, 80, 25
+Carrot, 60, 20
+Catnip, 60, 20
+Cedar, 60, 20
+Celosia Argentea, 70, 22
+Chard, 60, 20
+Cheese Plant, 80, 25
+Cherry Blossom, 65, 20
+Chili, 70, 25
+Chokecherry, 65, 20
+Citrus Aurantiifolia, 70, 25
+Dragon Blood Tree, 50, 30
+Dragon Fruit, 50, 28
+Dragonfruit Kuning, 60, 25
+Durian, 80, 26
+Durian Belanda, 80, 25
+Dahlia, 60, 20
+Dandelion, 50, 18
+Date Palm, 40, 30
+Delphinium, 70, 20
+Dianthus, 65, 22
+Dill, 60, 20
+Dioscorea, 75, 25
+Dogwood, 65, 20
+Dracaena, 75, 24
+Dwarf Umbrella Tree, 70, 25
+Dymondia, 60, 22
+Daphne, 65, 20
+Datura, 80, 25
+Desert Rose, 50, 30
+Devil's Ivy, 70, 24
+Dewberry, 65, 22
+Dillenia, 80, 25
+Diospyros, 70, 25
+Dipladenia, 75, 25
+Dodecatheon, 60, 20
+Dogbane, 65, 22
+Donkey Tail, 40, 25
+Dorycnium, 60, 20
+Drumstick Tree, 80, 28
+Duchess, 70, 22
+Dwarf Mugo Pine, 60, 20
+Dwarf Pomegranate, 70, 25
+Dymondia margaretae, 60, 22
+Dandelion Greens, 50, 18
+Dianthus barbatus, 60, 20
+Dioscorea batatas, 75, 25
+Diospyros lotus, 70, 25
+Dodecatheon meadia, 60, 20
+Dogwood Tree, 65, 20
+Dragon Tree, 70, 25
+Dracaena marginata, 75, 24
+Dwarf Blueberry, 60, 20
+Dwarf Citrus, 70, 25
+Dwarf Fothergilla, 65, 20
+Dwarf Juniper, 60, 20
+Dwarf Pansy, 50, 18
+Dwarf Red Maple, 65, 20
+Dwarf Spruce, 60, 20
+Dahlberg Daisy, 70, 20
+Dandelion Root, 50, 18
+Daphne odora, 65, 20
+Datura inoxia, 80, 25
+Desert Willow, 40, 30
+Devil's Backbone, 70, 25
+Dianthus caryophyllus, 60, 20
+Dioscorea alata, 75, 25
+Diospyros virginiana, 70, 25
+Ecuador Lemon, 65, 24
+Elephant Apple, 75, 26
+Elephant Yam, 80, 26
+Ethiopian Pepper, 70, 25
+Echinacea, 65, 22
+Elderberry, 60, 20
+Eggplant, 70, 25
+Eucalyptus, 50, 25
+Euphorbia, 60, 24
+Echinocactus, 30, 30
+Eryngium, 65, 20
+Euphorbia milii, 40, 25
+Elderflower, 60, 20
+Elephant Ear, 80, 28
+Empress Tree, 70, 25
+Endive, 60, 20
+Epimedium, 65, 18
+Eremurus, 60, 22
+Erythrina, 75, 25
+Eucalyptus globulus, 50, 25
+Echinopsis, 30, 30
+Euphorbia tirucalli, 40, 25
+Elder, 60, 20
+Echinocereus, 30, 30
+Euphorbia pulcherrima, 70, 22
+Erythronium, 60, 20
+Eucalyptus camaldulensis, 50, 25
+Echinacea purpurea, 65, 22
+Elderberry Bush, 60, 20
+Euphorbia lathyris, 60, 24
+Eryngium maritimum, 65, 20
+Euphorbia esula, 70, 22
+Echinocactus grusonii, 30, 30
+Eucalyptus deglupta, 60, 28
+Euphorbia characias, 50, 25
+Erythrina crista-galli, 75, 25
+Echinacea angustifolia, 65, 22
+Elderflower Tree, 60, 20
+Eleagnus, 65, 20
+Euphorbia hypericifolia, 60, 24
+Eryngium giganteum, 65, 20
+Eucalyptus polyanthemos, 50, 25
+Echinocactus texensis, 30, 30
+Euphorbia myrsinites, 40, 25
+Elderberry Tree, 60, 20
+Echinacea pallida, 65, 22
+Eucalyptus maidenii, 50, 25
+Erythrina variegata, 75, 25
+Euphorbia cyparissias, 60, 24
+Eryngium alpinum, 65, 20
+Eucalyptus viminalis, 50, 25
+Echinocactus horizonthalonius, 30, 30
+Euphorbia amygdaloides, 70, 22
+Elderflower Bush, 60, 20
+Eucalyptus citriodora, 50, 25
+Erythrina fusca, 75, 25
+Eryngium planum, 65, 20
+Eucalyptus gunnii, 50, 25
+Echinocactus polycephalus, 30, 30
+Euphorbia helioscopia, 70, 22
+Elderberry Wine, 60, 20
+Echinacea tennesseensis, 65, 22
+Eucalyptus robusta, 50, 25
+Erythrina speciosa, 75, 25
+Eryngium yuccifolium, 65, 20
+Eucalyptus sideroxylon, 50, 25
+Echinocactus viridescens, 30, 30
+Elderflower Cordial, 60, 20
+Echinacea paradoxa, 65, 22
+Eucalyptus tereticornis, 50, 25
+Falsa, 60, 28
+Fe’i Banana, 80, 27
+Fig, 55, 25
+Finger Lime, 65, 24
+Fingerroot, 85, 25
+Forest Tamarind, 80, 27
+Fennel, 60, 20
+Fern, 80, 22
+Freesia, 65, 18
+Foxglove, 70, 20
+Fuchsia, 75, 20
+Flax, 60, 22
+Flame Lily, 80, 25
+Flowering Maple, 65, 20
+Forsythia, 60, 15
+Frangipani, 70, 28
+Feverfew, 65, 20
+Fennel Flower, 60, 22
+Fatsia, 70, 20
+Fever Tree, 50, 25
+Firecracker Plant, 70, 25
+Flame Grass, 65, 24
+Floss Flower, 60, 20
+Flowering Dogwood, 65, 20
+Fritillaria, 70, 18
+Fuchsia magellanica, 75, 20
+Fennel Bulb, 65, 22
+Fatshedera, 70, 20
+Ficus, 60, 25
+Filipendula, 70, 22
+Firethorn, 60, 25
+Flame Azalea, 65, 20
+Flax Lily, 60, 22
+Fountain Grass, 50, 25
+Fringed Orchid, 75, 20
+Frostweed, 65, 18
+Fuchsia x hybrida, 75, 20
+Fennel Seed, 60, 22
+Fatsia japonica, 70, 20
+Firecracker Flower, 70, 25
+Flaxseed, 60, 22
+Flowering Quince, 65, 20
+Ficus elastica, 60, 25
+Filipendula ulmaria, 70, 22
+Freesia refracta, 65, 18
+Fritillaria imperialis, 70, 18
+Ficus carica, 60, 25
+Galangal, 75, 24
+Galangal Merah, 75, 24
+Gambas, 65, 25
+Gambier, 85, 25
+Gandaria, 75, 27
+Ganyong, 80, 24
+Giant Guava, 70, 28
+Giant Granadilla, 70, 25
+Giant Taro, 85, 28
+Ginger, 70, 25
+Grapefruit, 70, 25
+Guava, 70, 27
+Guiana Chestnut, 75, 26
+Garlic, 60, 20
+Ginkgo, 50, 20
+Grapes, 60, 20
+Geranium, 65, 22
+Gourd, 75, 25
+Gooseberry, 65, 20
+Golden Pothos, 80, 24
+Golden Shower, 60, 30
+Goji Berry, 70, 25
+Grapevine, 60, 20
+Gardenia, 70, 22
+Galega, 65, 20
+Giant Sequoia, 50, 15
+Ginkgo Biloba, 50, 20
+Gladiolus, 60, 22
+Globe Thistle, 65, 20
+Goosefoot, 55, 18
+Graptopetalum, 40, 25
+Green Amaranth, 70, 25
+Green Bell Pepper, 70, 25
+Green Onion, 60, 20
+Green Tea Plant, 70, 20
+Ground Cherry, 65, 22
+Guava Berry, 70, 25
+Gumbo, 80, 25
+Gynura, 65, 22
+Grapple, 60, 20
+Grapefruit Tree, 70, 25
+Grapple Fruit, 60, 20
+Grapple Pear, 60, 20
+Grapple Melon, 60, 20
+Grapple Apple, 60, 20
+Grapple Cherry, 60, 20
+Grapple Peach, 60, 20
+Grapple Plum, 60, 20
+Grapple Apricot, 60, 20
+Grapple Nectarine, 60, 20
+Grapple Kiwi, 60, 20
+Grapple Fig, 60, 20
+Grapple Persimmon, 60, 20
+Grapple Quince, 60, 20
+Grapple Mulberry, 60, 20
+Grapple Blackberry, 60, 20
+Grapple Raspberry, 60, 20
+Grapple Strawberry, 60, 20
+Grapple Blueberry, 60, 20
+Grapple Cranberry, 60, 20
+Grapple Currant, 60, 20
+Grapple Gooseberry, 60, 20
+Grapple Elderberry, 60, 20
+Grapple Huckleberry, 60, 20
+Grapple Cloudberry, 60, 20
+Grapple Bilberry, 60, 20
+Grapple Serviceberry, 60, 20
+Grapple Medlar, 60, 20
+Grapple Jujube, 60, 20
+Grapple Sapote, 60, 20
+Grapple Cherimoya, 60, 20
+Grapple Soursop, 60, 20
+Grapple Custard Apple, 60, 20
+Grapple Longan, 60, 20
+Grapple Rambutan, 60, 20
+Grapple Mangosteen, 60, 20
+Grapple Durian, 60, 20
+Grapple Jackfruit, 60, 20
+Grapple Breadfruit, 60, 20
+Grapple Langsat, 60, 20
+Grapple Salak, 60, 20
+Grapple Sapodilla, 60, 20
+Grapple Cacao, 60, 20
+Grapple Coffee, 60, 20
+Grapple Tea, 60, 20
+Grapple Cocoa, 60, 20
+Grapple Olive, 60, 20
+Grapple Almond, 60, 20
+Grapple Walnut, 60, 20
+Grapple Hazelnut, 60, 20
+Grapple Chestnut, 60, 20
+Grapple Pine Nut, 60, 20
+Grapple Pecan, 60, 20
+Grapple Macadamia, 60, 20
+Grapple Brazil Nut, 60, 20
+Grapple Cashew, 60, 20
+Grapple Hickory, 60, 20
+Grapple Butternut, 60, 20
+Grapple Acorn, 60, 20
+Grapple Pine, 60, 20
+Grapple Fir, 60, 20
+Grapple Spruce, 60, 20
+Grapple Cedar, 60, 20
+Grapple Larch, 60, 20
+Grapple Yew, 60, 20
+Grapple Hemlock, 60, 20
+Grapple Redwood, 60, 20
+Grapple Cypress, 60, 20
+Hawaiian Raspberry, 60, 22
+Himalayan Mulberry, 55, 20
+Hog Plum, 70, 28
+Hoya Carnosa, 60, 20
+Hibiscus Rosa-Sinensis, 70, 25
+Heliconia Rostrata, 80, 24
+Helleborus Niger, 50, 15
+Hosta Plantaginea, 60, 18
+Hoya Bella, 65, 22
+Heliotropium Arborescens, 55, 20
+Hakea Laurina, 50, 23
+Helianthemum Nummularium, 40, 20
+Hesperaloe Parviflora, 30, 25
+Hoya Linearis, 70, 22
+Heliocrysum Petiolare, 50, 20
+Houttuynia Cordata, 75, 18
+Heliotropium, 60, 20
+Hoya Kerrii, 65, 22
+Helleborus Orientalis, 50, 15
+Hoya Obovata, 60, 20
+Helianthemum, 40, 20
+Hoya Lacunosa, 70, 22
+Hesperis Matronalis, 55, 18
+Hoya Multiflora, 65, 22
+Helleborus Foetidus, 50, 15
+Hoya Cumingiana, 60, 20
+Hoya Finlaysonii, 70, 22
+Heliocarpus Americanus, 80, 25
+Hoya Macgillivrayi, 65, 22
+Hoya Wayetii, 70, 22
+Hoya Retusa, 65, 22
+Helleborus, 50, 15
+Hoya Compacta, 60, 20
+Hoya Carnosa Variegata, 60, 20
+Heliocrysum, 50, 20
+Hoya Bilobata, 70, 22
+Hoya Hushii, 65, 22
+Hoya Cinnamomifolia, 70, 22
+Heliocarpus, 80, 25
+Hoya Pauciflora, 65, 22
+Hoya Hoya, 70, 22
+Hoya Kerri, 65, 22
+Hoya Lobbii, 70, 22
+Hoya Ciliata, 65, 22
+Hoya Macrophylla, 70, 22
+Hoya Serpens, 65, 22
+Hoya Verticillata, 70, 22
+Hoya Heterodoxa, 65, 22
+Hoya Polyneura, 70, 22
+Hoya Obscura, 70, 22
+Horned Cucumber, 50, 24
+Indian Almond, 65, 28
+Indian Almond Leaf, 75, 27
+Indian Persimmon, 70, 25
+Indonesian Lime, 65, 25
+Ibis Plant, 50, 20
+Ice Plant, 30, 18
+Indian Basil, 60, 22
+Indian Cress, 55, 20
+Indian Fig, 40, 25
+Indian Hawthorn, 45, 15
+Indian Mallow, 65, 22
+Indian Mustard, 50, 20
+Indian Pea, 70, 24
+Indian Spikenard, 60, 18
+Ilex, 50, 15
+Impatiens, 70, 20
+Inca Lily, 60, 22
+Inch Plant, 65, 20
+Indigo Plant, 55, 25
+Inula, 50, 18
+Ipomoea, 60, 22
+Irish Moss, 80, 15
+Iron Plant, 50, 20
+Isotoma, 65, 22
+Italian Basil, 60, 22
+Italian Cypress, 40, 18
+Italian Parsley, 55, 20
+Ixia, 50, 20
+Iresine, 70, 22
+Iris, 60, 18
+Ischia, 50, 20
+Iboza, 65, 22
+Iochroma, 60, 20
+Iresine Herbstii, 70, 22
+Ilex Crenata, 50, 15
+Impatiens Walleriana, 55, 20
+Inula Helenium, 50, 18
+Ixia Viridiflora, 55, 20
+Indian Aster, 60, 22
+Indian Sorrel, 50, 20
+Indian Tuberose, 65, 22
+Inca Gold, 70, 24
+Inula Britannica, 60, 20
+Ixia Hybrida, 65, 22
+Iresine Diffusa, 50, 20
+Ilex Aquifolium, 50, 15
+Ixia Maculata, 55, 20
+Impatiens Balsamina, 60, 22
+Inula Conyza, 60, 20
+Iochroma Ciliatum, 65, 20
+Ilex Verticillata, 50, 15
+Ixia Bulb, 55, 20
+Indian Bluebell, 60, 20
+Indian Cabbage, 65, 22
+Indian Corn, 70, 24
+Indian Ginger, 55, 20
+Indian Mint, 60, 22
+Indian Pepper, 50, 20
+Inula Salicina, 50, 18
+Ixia Recurvata, 70, 22
+Iresine L., 55, 20
+Ilex X Meserveae, 50, 15
+Impatiens Grandis, 60, 22
+Indian Hawthorn Snow, 60, 22
+Indian Mallow Red, 65, 20
+Incarvillea Zanguebarica, 70, 24
+Indigofera Tinctoria, 50, 25
+Ipomoea Fistulosa, 60, 22
+Iresine Gold, 55, 20
+Isotoma Axillaris Blue, 70, 22
+Ilex Crenata Convexa, 50, 15
+Ixia Pink, 55, 20
+Impatiens New Guinea, 60, 22
+Inula Viscosa, 50, 18
+Iochroma Yellow, 65, 20
+Iresine White, 70, 22
+Ilex X Meserveae Blue Girl, 50, 15
+Ixia Red, 55, 20
+Indian Cress Orange, 60, 22
+Indian Cabbage White, 55, 20
+Indian Corn Blue, 70, 24
+Indian Ginger Yellow, 55, 20
+Indian Mint Green, 60, 22
+Indian Pepper Red, 50, 20
+Indian Sorrel Purple, 65, 22
+Inula Salicina White, 50, 18
+Ixia Recurvata Pink, 70, 22
+Iresine L. Green, 55, 20
+Ilex X Meserveae Gold, 50, 15
+Impatiens Grandis Pink, 60, 22
+Indian Hawthorn Snowflake, 60, 22
+Indian Mallow Red Velvet, 65, 20
+Incarvillea Zanguebarica Pink, 70, 24
+Indigofera Tinctoria Blue, 50, 25
+Ipomoea Fistulosa Purple, 60, 22
+Iresine Gold Dust, 55, 20
+Isotoma Axillaris White, 70, 22
+Ilex Crenata Green, 50, 15
+Ixia Pink Star, 55, 20
+Impatiens New Guinea White, 60, 22
+Inula Viscosa Yellow, 50, 18
+Iochroma Yellow Star, 65, 20
+Jackfruit, 60, 25
+Jade Plant, 40, 20
+Japanese Maple, 50, 15
+Jasmine, 70, 22
+Jatropha, 50, 24
+Jerusalem Artichoke, 50, 20
+Jewel Orchid, 80, 22
+Jojoba, 30, 25
+Juniper, 40, 15
+Jungle Cactus, 60, 22
+Japanese Fern, 70, 18
+Jasmine Rice Plant, 80, 25
+Jungle Rubber Plant, 60, 24
+Jade Vine, 70, 22
+Japanese Knotweed, 50, 20
+Jambolan, 60, 25
+Jicama, 50, 24
+Jungle Flame, 70, 22
+Japanese Iris, 80, 18
+Jatropha Curcas, 40, 25
+Jewel Plant, 60, 22
+Japanese Anemone, 50, 20
+Jungle Fern, 70, 18
+Jasmine Sambac, 75, 22
+Jamaican Cherry, 60, 25
+Japanese Yew, 40, 15
+Jungle Cabbage, 50, 20
+Jamaican Sorrel, 70, 25
+Jewel Cactus, 60, 22
+Japanese Spiraea, 50, 20
+Jungle Grape, 60, 24
+Jasmine Grandiflorum, 70, 22
+Jamaican Pepper, 60, 25
+Japanese Quince, 50, 18
+Jungle Orchid, 80, 22
+Jatropha Podagrica, 50, 24
+Jamaican Allspice, 60, 25
+Japanese Snowbell, 50, 20
+Jungle Pea, 70, 22
+Japanese Barberry, 40, 15
+Jamaican Guava, 60, 25
+Jasmine Laxum, 75, 22
+Jicama Plant, 50, 24
+Japanese Wisteria, 50, 20
+Jamaican Blue Mahoe, 60, 25
+Japanese Maple Leaf, 40, 15
+Jungle Vine, 70, 22
+Jasmine Officinale, 75, 22
+Jatropha Gossypiifolia, 60, 25
+Jasmine Polyanthum, 75, 22
+Jamaican Ackee, 60, 25
+Japanese Cherry Blossom, 40, 15
+Jasmine Nudiflorum, 70, 22
+Jatropha integerrima, 50, 24
+Jamaican Soursop, 60, 25
+Japanese Holly, 40, 15
+Jasmine Fragrant, 75, 22
+Jicama Root, 50, 24
+Jatropha Macrantha, 60, 25
+Jamaican Pepperleaf, 60, 25
+Jambolan Plum, 60, 25
+Kalanchoe, 50, 20
+Kale, 60, 18
+Kava, 70, 22
+Kiwi, 50, 20
+Kiwifruit, 60, 20
+Kalanchoe Blossfeldiana, 40, 22
+Kousa Dogwood, 50, 15
+Knautia, 60, 18
+Kelp, 80, 15
+Kousa, 50, 20
+Kalanchoe Tomentosa, 40, 22
+Kiwifruit Vine, 60, 20
+Knautia Arvensis, 60, 18
+Kalanchoe Fedtschenkoi, 40, 22
+Krameria, 50, 20
+Kalanchoe Pinnata, 40, 22
+Kousa Chinensis, 50, 15
+Knautia Macedonica, 60, 18
+Kalanchoe Luciae, 40, 22
+Kiwifruit Plant, 60, 20
+Kalanchoe Beharensis, 40, 22
+Krameria Triandra, 50, 20
+Kousa Dogwood Tree, 50, 15
+Knautia Spp, 60, 18
+Kalanchoe Blossfeldiana Variegata, 40, 22
+Kiwifruit Hybrid, 60, 20
+Kalanchoe Marmorata, 40, 22
+Krameria Lappacea, 50, 20
+Kousa Chinensis Tree, 50, 15
+Knautia Dipsacifolia, 60, 18
+Kalanchoe Thyrsiflora, 40, 22
+Kiwifruit Green, 60, 20
+Kalanchoe Houghtonii, 40, 22
+Krameria Parvifolia, 50, 20
+Kousa Dogwood Varieties, 50, 15
+Knautia Arvensis Variegata, 60, 18
+Kalanchoe Orgyalis, 40, 22
+Kiwifruit Gold, 60, 20
+Kalanchoe Pumila, 40, 22
+Krameria Acanthocarpa, 50, 20
+Kousa Dogwood Cultivar, 50, 15
+Knautia Spp Varieties, 60, 18
+Kalanchoe Uniflora, 40, 22
+Kiwifruit Hardy, 60, 20
+Kalanchoe Delagoensis, 40, 22
+Krameria Lappacea Varieties, 50, 20
+Kousa Dogwood Flowering, 50, 15
+Knautia Macedonica Varieties, 60, 18
+Kalanchoe Fedtschenkoi Variegata, 40, 22
+Kiwifruit Fuzzy, 60, 20
+Kalanchoe Beharensis Varieties, 40, 22
+Krameria Triandra Varieties, 50, 20
+Kousa Dogwood Tree Varieties, 50, 15
+Knautia Spp Cultivar, 60, 18
+Kalanchoe Thyrsiflora Varieties, 40, 22
+Kiwifruit Sweet, 60, 20
+Kalanchoe Marmorata Varieties, 40, 22
+Krameria Parvifolia Varieties, 50, 20
+Kousa Dogwood Hybrid, 50, 15
+Knautia Arvensis Cultivar, 60, 18
+Kalanchoe Orgyalis Varieties, 40, 22
+Kiwifruit Tart, 60, 20
+Kalanchoe Uniflora Varieties, 40, 22
+Krameria Acanthocarpa Varieties, 50, 20
+Kousa Dogwood White, 50, 15
+Knautia Dipsacifolia Varieties, 60, 18
+Kalanchoe Thyrsiflora Variegata, 40, 22
+Kiwifruit Red, 60, 20
+Kalanchoe Delagoensis Varieties, 40, 22
+Krameria Lappacea Cultivar, 50, 20
+Kousa Dogwood Red, 50, 15
+Knautia Macedonica Cultivar, 60, 18
+Kalanchoe Fedtschenkoi Varieties, 40, 22
+Kiwifruit Mini, 60, 20
+Kalanchoe Beharensis Cultivar, 40, 22
+Krameria Triandra Cultivar, 50, 20
+Kousa Dogwood Blue, 50, 15
+Knautia Spp Hybrid, 60, 18
+Kalanchoe Orgyalis Cultivar, 40, 22
+Kiwifruit Giant, 60, 20
+Kalanchoe Uniflora Cultivar, 40, 22
+Krameria Acanthocarpa Cultivar, 50, 20
+Kousa Dogwood Variegated, 50, 15
+Knautia Arvensis Hybrid, 60, 18
+Kalanchoe Thyrsiflora Hybrid, 40, 22
+Kiwifruit Smooth, 60, 20
+Kalanchoe Marmorata Cultivar, 40, 22
+Krameria Parvifolia Cultivar, 50, 20
+Kousa Dogwood Dwarf, 50, 15
+Knautia Dipsacifolia Hybrid, 60, 18
+Kalanchoe Fedtschenkoi Hybrid, 40, 22
+Kiwifruit Sweetheart, 60, 20
+Kalanchoe Beharensis Hybrid, 40, 22
+Krameria Triandra Hybrid, 50, 20
+Kousa Dogwood Standard, 50, 15
+Knautia Macedonica Hybrid, 60, 18
+Kalanchoe Orgyalis Hybrid, 40, 22
+Kiwifruit SunGold, 60, 20
+Kalanchoe Uniflora Hybrid, 40, 22
+Lakoocha, 75, 27
+Lakoocha Merah, 80, 27
+Langsat, 80, 25
+Langsat Hutan, 80, 25
+Lemon Aspen, 65, 22
+Lemon Myrtle, 65, 24
+Lemonade Berry, 70, 25
+Lulo, 70, 20
+Lantana, 60, 20
+Lavender, 40, 18
+Lemon Balm, 50, 22
+Lilac, 45, 15
+Lily, 55, 20
+Lobelia, 70, 18
+Lotus, 80, 25
+Larkspur, 60, 20
+Limonium, 50, 22
+Lantana Camara, 60, 20
+Lonicera, 50, 15
+Lilium, 55, 20
+Luffa, 70, 25
+Lantana Montevidensis, 60, 20
+Lippia, 50, 22
+Lonicera Japonica, 60, 18
+Lantana Trifolia, 60, 20
+Lathyrus, 50, 20
+Lonicera Periclymenum, 50, 15
+Lantana Camara New Gold, 60, 20
+Lantana Patriot, 60, 20
+Lantana Confetti, 60, 20
+Lantana Landmark, 60, 20
+Lantana Samantha, 60, 20
+Lantana Mellow Yellow, 60, 20
+Lantana Chapel Hill, 60, 20
+Lantana Dallas Red, 60, 20
+Lantana White, 60, 20
+Lantana Pink, 60, 20
+Lantana Purple, 60, 20
+Lantana Gold, 60, 20
+Lantana Orange, 60, 20
+Lantana Red, 60, 20
+Lantana Blue, 60, 20
+Lantana Peach, 60, 20
+Lantana Coral, 60, 20
+Lantana Lavender, 60, 20
+Lantana Yellow, 60, 20
+Lantana Bicolor, 60, 20
+Lantana Tri-color, 60, 20
+Lantana Sunset, 60, 20
+Lantana Rainbow, 60, 20
+Lantana Tropical, 60, 20
+Lantana Citrus, 60, 20
+Lantana Tangerine, 60, 20
+Lantana Mango, 60, 20
+Lantana Fruit Punch, 60, 20
+Lantana Cotton Candy, 60, 20
+Lantana Frosty, 60, 20
+Lantana Funky, 60, 20
+Lantana Fiesta, 60, 20
+Lantana Carnival, 60, 20
+Lantana Jubilee, 60, 20
+Lantana Celebration, 60, 20
+Lantana Festival, 60, 20
+Lantana Parade, 60, 20
+Mabolo, 75, 26
+Mabolo Merah, 75, 26
+Madagascar Bean, 75, 26
+Malabar Spinach, 80, 28
+Malay Apple, 80, 27
+Mammee Apple, 75, 25
+Mamoncillo, 70, 28
+Mango, 60, 30
+Mango Ginger, 75, 24
+Mangaba, 75, 26
+Mangrove Apple, 85, 29
+Marang, 85, 27
+Marang Merah, 80, 27
+Marula, 60, 30
+Mata Kucing, 75, 25
+Melinjo, 75, 27
+Melinjo Merah, 75, 27
+Mombin, 70, 26
+Monkey Orange, 65, 24
+Morama Bean, 50, 28
+Macadamia Nut, 60, 22
+Mace, 70, 25
+Magnolia, 65, 20
+Mahogany, 60, 24
+Malva, 55, 18
+Mandrake, 50, 20
+Maranta, 70, 22
+Marigold, 60, 21
+Marshmallow, 65, 23
+Maté, 75, 25
+Mayapple, 55, 20
+Melaleuca, 80, 24
+Melon, 70, 26
+Mentha, 65, 22
+Mesquite, 50, 30
+Mexican Sunflower, 75, 28
+Microgreens, 60, 20
+Milkweed, 70, 22
+Mimosa, 75, 25
+Mint, 65, 22
+Mistletoe, 50, 18
+Monstera, 70, 24
+Moonflower, 60, 22
+Morus, 75, 25
+Mountain Laurel, 65, 20
+Mucuna, 80, 28
+Mulberry, 70, 26
+Mullein, 60, 21
+Mustard, 65, 22
+Myrrh, 70, 25
+Myrtus, 75, 24
+Moringa, 60, 30
+Mandevilla, 70, 22
+Mallow, 60, 21
+Moth Orchid, 70, 24
+Mountain Pine, 60, 20
+Myoporum, 75, 25
+Mandevilla Sanderi, 70, 22
+Mucuna Pruriens, 80, 28
+Moringa Oleifera, 60, 30
+Mandevilla Boliviensis, 70, 22
+Mucuna Cochinchinensis, 80, 28
+Moringa Pterygosperma, 60, 30
+Myoporum Parvifolium, 75, 25
+Mandevilla Laxa, 70, 22
+Maclura Pomifera, 70, 25
+Malus Domestica, 60, 20
+Mandevilla Tricolor, 70, 22
+Moringa Stenopetala, 60, 30
+Myrtus Communis, 75, 24
+Mucuna Deeringiana, 80, 28
+Mesembryanthemum, 65, 22
+Nandina Domestica, 50, 20
+Narcissus, 60, 15
+Neoregalia, 70, 22
+Nepenthes, 80, 25
+Nettle, 55, 18
+Nicotiana, 65, 20
+Nymphaea, 75, 24
+Nandina, 50, 20
+Nothofagus, 60, 15
+Navel Orange, 50, 22
+Nierembergia, 60, 18
+Nothofagus Dombeyi, 60, 15
+Nymphaea Lotus, 75, 24
+Nandina Firepower, 50, 20
+Nicotiana Sylvestris, 65, 20
+Nothofagus Pumilio, 60, 15
+Nymphaea Rubra, 75, 24
+Nandina Gulf Stream, 50, 20
+Nierembergia Hippomanica, 60, 18
+Nothofagus Antartica, 60, 15
+Nymphaea Alba, 75, 24
+Nandina Blush Pink, 50, 20
+Nicotiana Alata, 65, 20
+Nothofagus Cunninghami, 60, 15
+Nymphaea Caerulea, 75, 24
+Nandina Domestica Gulf Stream, 50, 20
+Nierembergia Starry Night, 60, 18
+Nothofagus Menziesii, 60, 15
+Nymphaea Blue Beauty, 75, 24
+Nandina Moon Bay, 50, 20
+Nicotiana Lime Green, 65, 20
+Nothofagus Fuscospora, 60, 15
+Nymphaea Pink Sensation, 75, 24
+Nierembergia Purple Robe, 60, 18
+Nothofagus Cunninghamii, 60, 15
+Nymphaea White Beauty, 75, 24
+Nandina Burgundy, 50, 20
+Nicotiana Tinkerbell, 65, 20
+Nothofagus Antarctica, 60, 15
+Nymphaea Yellow Sensation, 75, 24
+Nandina Compacta, 50, 20
+Nierembergia Cascading, 60, 18
+Nymphaea Red Sensation, 75, 24
+Nandina Lemon Lime, 50, 20
+Nicotiana Perfume, 65, 20
+Nymphaea Peach Sensation, 75, 24
+Nymphaea Blue Sensation, 75, 24
+Nicotiana Scented, 65, 20
+Nothofagus Menziessii, 60, 15
+Nymphaea Golden Sensation, 75, 24
+Okinawan Spinach, 75, 27
+Otaheite Gooseberry, 75, 26
+Oregano, 50, 20
+Orchid, 60, 22
+Olive, 40, 25
+Oncidium, 70, 24
+Oxalis, 50, 18
+Ophiopogon, 55, 20
+Osmanthus, 45, 22
+Oenothera, 50, 21
+Opuntia, 30, 30
+Oleander, 40, 25
+Orchid Cactus, 60, 22
+Pacay, 70, 24
+Papaya, 70, 27
+Peanut Butter Fruit, 70, 24
+Pequi, 65, 27
+Persimmon, 55, 18
+Pineapple, 60, 28
+Pitomba, 75, 26
+Pitomba Amarela, 75, 26
+Plum, 70, 25
+Plantain, 85, 27
+Pomegranate, 55, 23
+Pomelo, 65, 24
+Pulasan, 80, 26
+Palm Tree, 60, 25
+Pansy, 50, 18
+Peony, 45, 20
+Petunia, 50, 20
+Phlox, 50, 20
+Pilea, 50, 22
+Pine, 40, 15
+Poinsettia, 60, 20
+Portulaca, 40, 25
+Potato Plant, 50, 20
+Prickly Pear, 30, 25
+Primrose, 55, 18
+Purple Heart, 60, 22
+Pothos, 50, 20
+Peperomia, 50, 22
+Pansy Violet, 50, 18
+Passionflower, 60, 22
+Pseudopanax, 50, 20
+Plectranthus, 60, 20
+Poinciana, 70, 25
+Pansy Mix, 50, 18
+Pseudotsuga, 40, 15
+Pilea Peperomioides, 50, 22
+Pansy Blue, 50, 18
+Pothos N'Joy, 50, 20
+Pansy Yellow, 50, 18
+Pansy Red, 50, 18
+Pansy White, 50, 18
+Pansy Purple, 50, 18
+Pansy Orange, 50, 18
+Pansy Lavender, 50, 18
+Pansy Bi-Color, 50, 18
+Pansy Tri-Color, 50, 18
+Pansy Giant, 50, 18
+Pansy Mini, 50, 18
+Pansy Frilly, 50, 18
+Pansy Wave, 50, 18
+Pansy Frost, 50, 18
+Pansy Frosted, 50, 18
+Pansy Velvet, 50, 18
+Pansy Blotch, 50, 18
+Pansy Clear, 50, 18
+Pansy Fancy, 50, 18
+Pansy Ruffled, 50, 18
+Pansy Spotted, 50, 18
+Pansy Striped, 50, 18
+Pansy Solid, 50, 18
+Pansy Double, 50, 18
+Pansy Single, 50, 18
+Pansy Large, 50, 18
+Pansy Small, 50, 18
+Pansy Tall, 50, 18
+Pansy Short, 50, 18
+Pansy Compact, 50, 18
+Pansy Spreading, 50, 18
+Pansy Groundcover, 50, 18
+Pansy Container, 50, 18
+Pansy Hanging, 50, 18
+Pansy Border, 50, 18
+Pansy Accent, 50, 18
+Pansy Filler, 50, 18
+Pansy Edging, 50, 18
+Pansy Mass, 50, 18
+Pansy Display, 50, 18
+Pansy Show, 50, 18
+Pansy Festival, 50, 18
+Pansy Parade, 50, 18
+Pansy Gala, 50, 18
+Pansy Celebration, 50, 18
+Pansy Event, 50, 18
+Pansy Gathering, 50, 18
+Pansy Assembly, 50, 18
+Pansy Meeting, 50, 18
+Pansy Reunion, 50, 18
+Pansy Convention, 50, 18
+Pansy Symposium, 50, 18
+Pansy Forum, 50, 18
+Pansy Workshop, 50, 18
+Pansy Seminar, 50, 18
+Pansy Conference, 50, 18
+Pansy Session, 50, 18
+Pansy Roundtable, 50, 18
+Pansy Discussion, 50, 18
+Pansy Talk, 50, 18
+Pansy Chat, 50, 18
+Pansy Dialogue, 50, 18
+Pansy Exchange, 50, 18
+Pansy Interaction, 50, 18
+Pansy Connection, 50, 18
+Pansy Network, 50, 18
+Pansy Link, 50, 18
+Pansy Relationship, 50, 18
+Pansy Bond, 50, 18
+Pansy Affiliation, 50, 18
+Pansy Partnership, 50, 18
+Pansy Alliance, 50, 18
+Pansy Coalition, 50, 18
+Pansy Union, 50, 18
+Pansy Collective, 50, 18
+Queensland Nut, 70, 24
+Quaking Aspen, 40, 15
+Quince, 50, 20
+Quinoa, 60, 22
+Queen Anne's Lace, 45, 18
+Quercus Alba, 30, 10
+Quercus Robur, 35, 12
+Quercus Palustris, 40, 14
+Quercus Rubra, 50, 16
+Quisqualis Indica, 70, 25
+Quamoclit, 60, 20
+Quercus Virginiana, 55, 18
+Quisqualis, 65, 24
+Quercus Garryana, 40, 15
+Quercus Ilex, 50, 20
+Quercus Coccinea, 30, 12
+Quercus Phellos, 45, 14
+Quercus Falcata, 50, 16
+Quercus Macrocarpa, 35, 10
+Quercus Bicolor, 40, 18
+Quercus Suber, 55, 22
+Quercus Spp, 50, 15
+Quercus Acutissima, 30, 12
+Quercus Frainetto, 45, 14
+Rafflesia, 60, 25
+Radish, 50, 20
+Rain Lily, 40, 22
+Rambutan, 70, 24
+Raspberry, 50, 20
+Red Maple, 45, 18
+Red Oak, 50, 20
+Red Pine, 40, 15
+Red Rose, 60, 22
+Redbud, 50, 20
+Rebutia, 30, 25
+Rhododendron, 60, 18
+Rosemary, 40, 20
+Rubber Plant, 50, 22
+Rudbeckia, 45, 20
+Rue, 40, 20
+Ruscus, 50, 22
+Rattlesnake Plant, 60, 22
+Rhipsalis, 50, 25
+Rock Cress, 40, 20
+Rock Rose, 50, 22
+Rose of Sharon, 50, 20
+Royal Fern, 70, 18
+Rattlesnake Cactus, 30, 25
+Red Hot Poker, 50, 20
+Red Yucca, 40, 22
+Red Leafed Banana, 60, 25
+Red Ginger, 70, 24
+Red Clover, 50, 20
+Red Spider Lily, 60, 22
+Rhipsalis Baccifera, 50, 25
+Rhamnus, 50, 20
+Rape Plant, 50, 20
+Rattlesnake Grass, 40, 20
+Red Fescue, 45, 18
+Red Maple Leaf, 50, 20
+Red Currant, 50, 20
+Red Pine Tree, 40, 15
+Red Cedar, 50, 20
+Red Leafed Cabbage, 50, 20
+Red Leafed Lettuce, 50, 20
+Red Leafed Mustard, 50, 20
+Red Leafed Swiss Chard, 50, 20
+Red Leafed Kale, 50, 20
+Red Leafed Beet, 50, 20
+Red Leafed Spinach, 50, 20
+Red Leafed Amaranth, 50, 20
+Red Leafed Sorrel, 50, 20
+Red Leafed Endive, 50, 20
+Red Leafed Radicchio, 50, 20
+Red Leafed Arugula, 50, 20
+Red Leafed Purslane, 50, 20
+Red Leafed Watercress, 50, 20
+Red Leafed Chervil, 50, 20
+Red Leafed Cilantro, 50, 20
+Red Leafed Dill, 50, 20
+Red Leafed Fennel, 50, 20
+Red Leafed Oregano, 50, 20
+Red Leafed Thyme, 50, 20
+Red Leafed Sage, 50, 20
+Red Leafed Basil, 50, 20
+Red Leafed Mint, 50, 20
+Red Leafed Tarragon, 50, 20
+Red Leafed Chives, 50, 20
+Red Leafed Garlic, 50, 20
+Red Leafed Onion, 50, 20
+Red Leafed Shallot, 50, 20
+Red Leafed Leek, 50, 20
+Red Leafed Scallion, 50, 20
+Red Leafed Chive, 50, 20
+Red Leafed Parsley, 50, 20
+Red Leafed Coriander, 50, 20
+Red Leafed Cress, 50, 20
+Snake Plant, 40, 20
+Spider Plant, 50, 22
+Sunflower, 60, 25
+Sweet Potato Vine, 55, 24
+Sage, 45, 18
+Salvia, 50, 20
+Scindapsus, 60, 22
+Sago Palm, 50, 25
+Silver Pothos, 55, 23
+Staghorn Fern, 70, 20
+Saffron Crocus, 40, 15
+Snowdrop, 30, 10
+Salal, 60, 18
+Scented Geranium, 50, 20
+Sea Lavender, 60, 22
+Shasta Daisy, 50, 20
+Spathiphyllum, 70, 22
+Strelitzia, 60, 25
+Sansevieria, 40, 24
+Sweet William, 50, 18
+Sedge, 55, 20
+Silver Birch, 40, 15
+Sand Verbena, 50, 22
+Safflower, 60, 25
+Snow Pea, 50, 20
+Soursop, 70, 24
+Spirea, 50, 20
+Saguaro Cactus, 20, 30
+Salvia Divinorum, 60, 22
+Saffron, 40, 18
+Sand Lily, 50, 20
+Silver Maple, 40, 15
+Sweet Basil, 60, 22
+Scented Pelargonium, 50, 20
+Sago Cycad, 50, 25
+Snowberry, 50, 20
+Stokes Aster, 50, 20
+Sea Oats, 60, 22
+Spotted Laurel, 55, 20
+Silver Dollar Plant, 50, 22
+Sand Dune Grass, 40, 20
+Sweet Alyssum, 50, 20
+Siberian Iris, 50, 18
+Scented Jasmine, 60, 22
+Silver Sage, 50, 20
+St. John's Wort, 50, 20
+Snowdrop Anemone, 40, 15
+Spotted Dead Nettle, 50, 20
+Sedge Grass, 55, 20
+Sweet Pea, 50, 20
+Silver Thistle, 50, 20
+St. Augustine Grass, 60, 25
+Sea Holly, 50, 20
+Spiraea, 50, 20
+Saguaro, 20, 30
+Sweet Marjoram, 60, 22
+Sweet Potato, 55, 24
+Tacca, 60, 22
+Tagetes, 50, 20
+Talinum, 70, 24
+Tamarind, 65, 25
+Tansy, 40, 18
+Taraxacum, 55, 20
+Taro, 80, 26
+Teasel, 60, 22
+Tecoma, 65, 24
+Tectona, 70, 25
+Tetracera, 75, 23
+Thalia, 85, 27
+Thunbergia, 60, 22
+Tilia, 50, 20
+Tithonia, 65, 24
+Toad Lily, 55, 20
+Tuberose, 70, 25
+Tulip, 40, 18
+Tumeric, 80, 26
+Tussilago, 60, 22
+Tansy Mustard, 50, 20
+Tetrastigma, 65, 24
+Tithonia diversifolia, 70, 25
+Tacca palmata, 80, 26
+Tetracera volubilis, 75, 23
+Tilia americana, 50, 20
+Tilia cordata, 60, 22
+Tithonia rotundifolia, 65, 24
+Tacca leontopetaloides, 80, 26
+Tilia tomentosa, 50, 20
+Tilia platyphyllos, 60, 22
+Ugandan Pineapple, 70, 25
+Ube, 60, 22
+Ulex, 50, 18
+Ulmus, 40, 20
+Umbrella Plant, 70, 20
+Upland Cress, 50, 18
+Uva Ursi, 40, 15
+Urtica, 60, 20
+Upland Rice, 70, 25
+Urospatha, 80, 22
+Utricularia, 90, 24
+Ulex europaeus, 50, 18
+Upland Blueberry, 60, 20
+Urospatha jamaicensis, 80, 22
+Utricularia gibba, 90, 24
+Uva, 70, 20
+Upland Cotton, 60, 25
+Utricularia vulgaris, 90, 24
+Ulex parviflorus, 50, 18
+Urtica dioica, 60, 20
+Umbrella Tree, 70, 20
+Ulmus parvifolia, 40, 20
+Vanuatu Nut, 80, 26
+Velvet Apple, 70, 24
+Vietnamese Coriander, 85, 27
+Valerian, 50, 20
+Vanilla, 60, 22
+Variegated Forget-Me-Not, 70, 18
+Variegated Greater Periwinkle, 55, 20
+Variegated Japanese Laurel, 40, 15
+Variegated Lemon Thyme, 50, 20
+Variegated Maiden Grass, 60, 22
+Variegated Rue, 45, 19
+Varnish Tree, 80, 25
+Veined Yellow-Eyed Grass, 55, 20
+Velvet Cardboard Anthurium, 65, 24
+Verbena, 60, 22
+Verbena Quartz Mixed, 50, 20
+Verbena Santos Purple, 55, 21
+Verbena macdougalii Lavender Spires, 70, 18
+Vervain, 50, 20
+Viburnum, 60, 22
+Viburnum Arrowwood, 55, 20
+Viburnum x juddii, 70, 18
+Viburnum macrocephalum, 50, 20
+Vine, 60, 22
+Vitis Brant, 50, 20
+Vitis Muscat Bleu, 60, 22
+Vitis Poloske Muscat, 55, 20
+Vitis vinifera Ciotat, 70, 18
+Viola, 50, 20
+Viola Tiger Eyes, 60, 22
+Violet, 55, 20
+Violet Molly Sanderson, 45, 19
+Violet False Heath, 50, 20
+Violet Helleborine, 70, 18
+Violet Willow, 55, 20
+Vipers Bugloss, 60, 22
+Vipers Bugloss The Flower of Twilight, 50, 20
+Virginia Bluebells, 55, 21
+Virginia Creeper, 50, 20
+Vitex, 60, 22
+Viviparous Sheep's Fescue, 45, 19
+Vinca Minor, 55, 20
+Vinca Major, 60, 22
+Vinca Alba, 50, 20
+Vinca Variegata, 55, 21
+Viscum Album, 70, 18
+Vitis Chardonnay, 55, 20
+Vitis Cabernet Sauvignon, 60, 22
+Vitis Merlot, 50, 20
+Vitis Zinfandel, 55, 21
+Vinca Cora, 50, 20
+Vinca Cora Cascade, 60, 22
+Vinca Cora Deep Blue, 55, 20
+Vinca Cora White, 45, 19
+Vinca Cora Pink, 50, 20
+Vinca Cora Violet, 60, 22
+Vinca Cora Red, 55, 20
+Vinca Cora Lavender, 55, 21
+Vinca Cora Peach, 50, 20
+Vinca Cora Yellow, 60, 22
+Vinca Cora Mix, 55, 20
+Vinca Cora Blush, 45, 19
+Vinca Cora Rose, 50, 20
+Vinca Cora Purple, 60, 22
+Vinca Cora Blue, 55, 20
+Vinca Cora Cream, 55, 21
+Vinca Cora Gold, 50, 20
+Vinca Cora Silver, 60, 22
+Vinca Cora Green, 55, 20
+Vinca Cora Orange, 45, 19
+Vinca Cora Burgundy, 50, 20
+Watermelon, 60, 22
+Willow, 50, 20
+Wisteria, 70, 18
+Walnut, 40, 15
+Wheat, 50, 20
+Wildflower, 55, 21
+Wormwood, 45, 19
+Wintergreen, 65, 18
+Wattle, 60, 22
+Wax Plant, 50, 24
+White Clover, 55, 20
+White Oak, 40, 15
+Wild Ginger, 60, 20
+Water Hyacinth, 80, 25
+Wisteria Sinensis, 70, 18
+Wood Sorrel, 50, 20
+Wild Lettuce, 60, 22
+Wandering Jew, 65, 24
+White Sage, 50, 20
+Winter Jasmine, 70, 18
+Water Lily, 80, 25
+Wild Bergamot, 55, 20
+Woad, 45, 19
+Wisteria Floribunda, 70, 18
+White Pine, 40, 15
+Wild Rice, 60, 22
+Water Chestnut, 80, 25
+Woolly Thyme, 50, 20
+White Birch, 40, 15
+Wild Strawberry, 55, 20
+Wisteria Frutescens, 70, 18
+Watercress, 60, 22
+Winterberry, 50, 20
+Wild Mustard, 55, 21
+White Spruce, 40, 15
+Willowherb, 60, 20
+Wild Violet, 65, 22
+Wisteria Macrostachya, 70, 18
+Water Buttercup, 80, 25
+Wild Pea, 55, 20
+White Mulberry, 40, 15
+Woodbine, 50, 20
+Wild Cherry, 60, 20
+Wisteria Venusta, 70, 18
+Water Plantain, 80, 25
+Wild Thyme, 50, 20
+White Ash, 40, 15
+Willow Oak, 55, 20
+Wild Blueberry, 60, 20
+Wisteria Floribunda Shiro Noda, 70, 18
+Water Fern, 80, 25
+Wild Cucumber, 60, 22
+White Cedar, 40, 15
+Wild Grape, 55, 20
+Wisteria Blue Moon, 70, 18
+Wild Carrot, 60, 20
+White Camellia, 50, 20
+Willow Tree, 65, 22
+Wild Fennel, 55, 20
+Wisteria Pink Ice, 70, 18
+Water Mint, 60, 22
+Wild Radish, 50, 20
+White Jasmine, 55, 20
+Woolly Mullein, 45, 19
+Wild Onion, 60, 20
+Wisteria Caroline, 70, 18
+Water Avens, 60, 22
+White Peony, 50, 20
+Willow Herb, 60, 20
+Wisteria Amethyst Falls, 70, 18
+Wild Garlic, 50, 20
+White Foxglove, 55, 20
+Woolly Lamb's Ear, 45, 19
+Wild Pansy, 60, 20
+Wild Peony, 55, 20
+White Trillium, 50, 20
+Wildflower Mix, 55, 21
+Water Cress, 60, 22
+Wild Chervil, 50, 20
+White Yarrow, 55, 20
+Wild Sorrel, 60, 20
+Wisteria Shiro Noda, 70, 18
+Xanthorrhoea, 50, 20
+Xanthosoma, 60, 22
+Xeranthemum, 45, 18
+Ximenia, 70, 25
+Xylosma, 55, 24
+Xanthorrhoea preissii, 50, 21
+Xanthosoma sagittifolium, 65, 23
+Xanthosoma violaceum, 60, 22
+Xylocarpus granatum, 75, 26
+Xanthosoma robustum, 65, 24
+Xanthorrhoea johnsonii, 50, 20
+Xanthorrhoea australis, 55, 21
+Xanthorrhoea macronema, 60, 22
+Xanthorrhoea media, 65, 23
+Xanthorrhoea rufescens, 70, 24
+Xanthosoma alocasia, 60, 22
+Xanthosoma caracu, 65, 23
+Xanthorrhoea latifolia, 75, 25
+Xanthorrhoea bicolor, 50, 20
+Xanthorrhoea glauca, 55, 21
+Xanthorrhoea humilis, 60, 22
+Xanthorrhoea quadrangulata, 65, 23
+Xanthorrhoea semiplana, 70, 24
+Xanthorrhoea spinulosa, 75, 25
+Xanthorrhoea thyrsoidea, 50, 20
+Xanthorrhoea tridentata, 55, 21
+Xanthorrhoea undulata, 60, 22
+Xanthorrhoea viridis, 65, 23
+Xanthorrhoea xanthorrhoea, 70, 24
+Xanthorrhoea zeylanica, 75, 25
+Xanthorrhoea bracteata, 50, 20
+Xanthorrhoea corymbosa, 55, 21
+Xanthorrhoea dorrigoensis, 60, 22
+Xanthorrhoea eremaea, 65, 23
+Xanthorrhoea fulva, 70, 24
+Xanthorrhoea glaucophylla, 75, 25
+Xanthorrhoea hirsuta, 50, 20
+Xanthorrhoea juncifolia, 55, 21
+Xanthorrhoea longifolia, 60, 22
+Xanthorrhoea multiflora, 70, 24
+Xanthorrhoea oblongifolia, 75, 25
+Xanthorrhoea paludosa, 50, 20
+Xanthorrhoea parvifolia, 55, 21
+Xanthorrhoea plicata, 60, 22
+Xanthorrhoea sphaerica, 70, 24
+Xanthorrhoea thalassina, 75, 25
+Xanthorrhoea wattle, 65, 23
+Xanthorrhoea yarralumla, 70, 24
+Yellow Mango, 70, 28
+Yarrow, 50, 20
+Yellow Bell, 60, 25
+Yellow Birch, 40, 15
+Yellow Cress, 55, 22
+Yellow Dock, 45, 18
+Yellow Flag Iris, 70, 20
+Yellow Jasmine, 65, 25
+Yellow Lady's Slipper, 60, 20
+Yellow Mullein, 50, 22
+Yellow Nightshade, 55, 20
+Yellow Oxalis, 50, 18
+Yellow Pea, 60, 20
+Yellow Pine, 40, 15
+Yellow Rocket, 55, 22
+Yellow Sage, 60, 20
+Yellow Star Grass, 70, 20
+Yellow Sweet Clover, 50, 22
+Yellow Tulip, 60, 20
+Yellow Water Lily, 80, 25
+Yew, 40, 15
+Ylang Ylang, 70, 25
+Yarrow Plant, 50, 20
+Yaupon Holly, 60, 20
+Yew Pine, 40, 15
+Yucca, 30, 25
+Yarrow Flower, 50, 20
+Yellow Wood Sorrel, 60, 20
+Yellow Archangel, 55, 20
+Yellow Bellflower, 60, 22
+Yellow Coneflower, 65, 20
+Yellow Elder, 70, 25
+Yellow Frangipani, 65, 25
+Yellow Ginger, 70, 25
+Yellow Honeysuckle, 60, 20
+Yellow Jessamine, 65, 25
+Yellow Lady's Slipper Orchid, 60, 20
+Yellow Lobelia, 55, 20
+Yellow Marsh Marigold, 70, 20
+Yellow Mountain Laurel, 60, 20
+Yellow Peony, 60, 20
+Yellow Pineapple, 70, 25
+Yellow Raspberry, 60, 20
+Yellow Rose, 60, 20
+Yellow Sagebrush, 50, 20
+Yellow Scabious, 60, 20
+Yellow Sorrel, 55, 20
+Yellow Sweet Pea, 60, 20
+Yellow Tansy, 50, 20
+Yellow Trumpet Vine, 70, 25
+Yellow Tulip Tree, 60, 20
+Yarrow Leaf, 50, 20
+Yarrow Root, 50, 20
+Yew Tree, 40, 15
+Ylang Ylang Tree, 70, 25
+Yarrow Herb, 50, 20
+Yellow Bellflower Plant, 60, 22
+Yellow Buttercup, 60, 20
+Yellow Canna Lily, 70, 25
+Yellow Chime, 60, 20
+Yellow Clover, 60, 20
+Yellow Daisy, 60, 20
+Yellow Evening Primrose, 60, 20
+Yellow Foxglove, 60, 20
+Yellow Gage Plum, 60, 20
+Yellow Geranium, 60, 20
+Yellow Gladiolus, 60, 20
+Yellow Heliopsis, 60, 20
+Yellow Honeysuckle Vine, 70, 25
+Yellow Iris, 70, 20
+Yellow Jasmine Vine, 65, 25
+Yellow Knapweed, 60, 20
+Yellow Lobelia Plant, 55, 20
+Yellow Marigold, 60, 20
+Yellow Milkweed, 60, 20
+Yellow Mustard, 60, 20
+Yellow Orchid, 60, 20
+Yellow Pea Plant, 60, 20
+Yellow Petunia, 60, 20
+Yellow Phlox, 60, 20
+Yellow Poppy, 60, 20
+Yellow Primrose, 60, 20
+Yellow Raspberry Plant, 60, 20
+Yellow Sage Plant, 60, 20
+Yellow Snapdragon, 60, 20
+Yellow Sunflower, 60, 20
+Yellow Sweet William, 60, 20
+Yellow Tansy Plant, 50, 20
+Yellow Thistle, 60, 20
+Yellow Tulip Plant, 60, 20
+Yellow Verbena, 60, 20
+Yellow Vinca, 60, 20
+Yellow Water Hyacinth, 80, 25
+Yellow Willow, 60, 20
+Yellow Wisteria, 70, 25
+Yellow Zinnia, 60, 20
+Yarrow Blossom, 50, 20
+Yarrow Stem, 50, 20
+Yew Shrub, 40, 15
+Ylang Ylang Flower, 70, 25
+Yucca Plant, 30, 25
+Zambian Orange, 65, 24
+Zamioculcas zamiifolia, 40, 18
+Zinnia elegans, 50, 20
+Zephyranthes candida, 60, 22
+Zantedeschia, 70, 18
+Zygocactus truncatus, 50, 18
+Zoysia grass, 40, 25
+Zinnia angustifolia, 50, 20
+Zamioculcas zamiifolia Zenzi, 40, 18
+Zygopetalum, 60, 20
+Zinnia haageana, 50, 20
+Zygocactus, 50, 18
+Zanthoxylum, 60, 22
+Zinnia linearis, 50, 20
+Zingiber zerumbet, 70, 25
+Zygophyllum, 40, 22
+Zinnia State Fair, 50, 20
+Zamioculcas zamiifolia Raven, 40, 18
+Zingiber officinale, 60, 25
+Zinnia Double Zahara, 50, 20
+Zygopetalum mackayi, 60, 20
+Zinnia Profusion, 50, 20
+Zingiber mioga, 70, 25
+Zoysia matrella, 40, 25
+Zinnia Dreamland, 50, 20
+Zamioculcas zamiifolia Lucky, 40, 18
+Zingiber zerumbet Shampoo Ginger, 70, 25
+Zinnia Lilliput, 50, 20
+Zygocactus truncatus Christmas Cactus, 50, 18
+Zinnia Cut and Come Again, 50, 20
+Zingiber Variegated Ginger, 70, 25
+Zoysia japonica, 40, 25
+Zinnia Benary's Giant, 50, 20
+Zingiber Blue Ginger, 70, 25
+Zinnia Magellan, 50, 20
+Zygopetalum Blue Heaven, 60, 20
+Zinnia Lilliput Mix, 50, 20
+Zingiber Ginger Lily, 70, 25
+Zoysia Emerald, 40, 25
+Zinnia Whirligig, 50, 20
+Zingiber Giant Ginger, 70, 25
+Zinnia Zahara, 50, 20
+Zygocactus Easter Cactus, 50, 18
+Zingiber Red Ginger, 70, 25
+Zoysia Meyer, 40, 25
+Zingiber White Ginger, 70, 25
+Zygocactus Christmas Cactus, 50, 18
